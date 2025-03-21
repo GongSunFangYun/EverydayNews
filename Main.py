@@ -4,7 +4,7 @@ from io import BytesIO
 
 api_url = "https://jx.iqfk.top/60s.php?key=54K55paw6Iqx6Zuo"  #API可以直接拿去用，毕竟密钥是公开的(
 
-response = requests.get(api_url)
+response = requests.get(api_url) #记得使用GET请求，别整错了
 
 if response.status_code == 200:
     try:
