@@ -2,7 +2,7 @@ import requests
 from PIL import Image
 from io import BytesIO
 
-api_url = "https://jx.iqfk.top/60s.php?key=54K55paw6Iqx6Zuo"
+api_url = "https://jx.iqfk.top/60s.php?key=54K55paw6Iqx6Zuo"  #API可以直接拿去用，毕竟密钥是公开的(
 
 response = requests.get(api_url)
 
@@ -16,7 +16,6 @@ if response.status_code == 200:
                 if image_response.status_code == 200:
                     image = Image.open(BytesIO(image_response.content))
                     image.show()
-                    print(f"The response was: {response.text}")
     except Exception as e:
         print(f"An error occurred: {e}")
         print(f"The response was: {response.text}")
