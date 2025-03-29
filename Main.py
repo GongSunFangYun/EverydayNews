@@ -12,14 +12,8 @@ try:
     response = requests.get(api_url, headers=headers)
     response.raise_for_status()
 
-    data = response.json()
-    if data.get('data', {}).get('image'):
-        image_url = data['data']['image']
-        img_response = requests.get(image_url, headers=headers)
-        img_response.raise_for_status()
-
-        image = Image.open(BytesIO(img_response.content))
-        image.show()
+    image = Image.open(BytesIO(response.content))
+    image.show()
 
 except requests.exceptions.HTTPError as http_err:
     print(f"HTTP错误: {http_err}")
