@@ -89,7 +89,7 @@ class DailyNewsFetcher:
 
 
 if __name__ == "__main__":
-    API_KEY = "06fdfd48-5020-acb4-e3fd-0e6be95249c725d04176"
+    API_KEY = "********-****-****-****-******************"
 
     try:
         fetcher = DailyNewsFetcher(API_KEY)
