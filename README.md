@@ -1,10 +1,10 @@
 # 每日六十秒新聞
 
-[![GitHub release](https://img.shields.io/github/v/release/FanYaRou/EverydayNews?style=flat-square)]()
-[![Downloads](https://img.shields.io/github/downloads/FanYaRou/EverydayNews/total?style=flat-square)]()
-[![Stars](https://img.shields.io/github/stars/FanYaRou/EverydayNews?style=flat-square)]()
-[![Forks](https://img.shields.io/github/forks/FanYaRou/EverydayNews?style=flat-square)]()
-[![Issues](https://img.shields.io/github/issues/FanYaRou/EverydayNews?style=flat-square)]()
+[![GitHub release](https://img.shields.io/github/v/release/GongSunFangYun/EverydayNews?style=flat-square)]()
+[![Downloads](https://img.shields.io/github/downloads/GongSunFangYun/EverydayNews/total?style=flat-square)]()
+[![Stars](https://img.shields.io/github/stars/GongSunFangYun/EverydayNews?style=flat-square)]()
+[![Forks](https://img.shields.io/github/forks/GongSunFangYun/EverydayNews?style=flat-square)]()
+[![Issues](https://img.shields.io/github/issues/GongSunFangYun/EverydayNews?style=flat-square)]()
 
 ## 程式簡介
 純以Python寫就，每日自動擷取六十秒新聞之簡易軟件
