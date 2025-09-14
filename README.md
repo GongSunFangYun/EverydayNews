@@ -5,6 +5,7 @@
 [![Stars](https://img.shields.io/github/stars/GongSunFangYun/EverydayNews?style=flat-square)]()
 [![Forks](https://img.shields.io/github/forks/GongSunFangYun/EverydayNews?style=flat-square)]()
 [![Issues](https://img.shields.io/github/issues/GongSunFangYun/EverydayNews?style=flat-square)]()
+![简体中文支持](https://img.shields.io/badge/简体中文-支持-ff8c00?style=flat-square&labelColor=ff8c00&color=ffd700)
 
 ## 程式簡介
 純以Python寫就，每日自動擷取六十秒新聞之簡易軟件
