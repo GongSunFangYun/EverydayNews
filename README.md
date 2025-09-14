@@ -22,3 +22,13 @@
 ## API來源
 新聞數據取自：[六十秒API站](https://jx.iqfk.top/)  
 註：此工具適合日常快速瀏覽新聞要點
+
+## Star History
+
+<a href="https://www.star-history.com/#GongSunFangYun/EverydayNews&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/EverydayNews&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=GongSunFangYun/EverydayNews&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=GongSunFangYun/EverydayNews&type=Date" />
+ </picture>
+</a>
